@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **radutopala/radutopala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Radu 👋
+
+I am a software engineer, working with Go and PHP/Symfony to bring ideas to life. #golang #symfony
+
+#### Links
+
+- Twitter: [@golangdevro](https://twitter.com/golangdevro)
+- Let's work together: [trisoft.ro](https://trisoft.ro)
