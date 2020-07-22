@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Radu 👋
 
-I am a software engineer, working with Go and PHP/Symfony to bring ideas to life. #golang #symfony
+I am a software engineer, working with Go and PHP/Symfony, to bring ideas to life. #golang #symfony #microservices #macroservices #apis
 
 #### Links
 
-- Twitter: [@golangdevro](https://twitter.com/golangdevro)
-- Let's work together: [trisoft.ro](https://trisoft.ro)
+- Twitter: [@golangdevro](https://twitter.com/golangdevro), [@symfonydevro](https://twitter.com/symfonydevro)
+- Let's work together: [radutopala.com](https://radutopala.com), [trisoft.ro](https://trisoft.ro)
